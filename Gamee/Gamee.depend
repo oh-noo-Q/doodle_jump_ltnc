@@ -1,0 +1,96 @@
+# depslib dependency file v1.0
+1588243927 source:c:\users\dr.thang\documents\gamee\test.cpp
+	"print.h"
+	"map.h"
+
+1587410872 c:\users\dr.thang\documents\gamee\printscreen.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+
+1588074371 c:\users\dr.thang\documents\gamee\print\print.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+
+1587706530 source:c:\users\dr.thang\documents\gamee\print\print.cpp
+	"print.h"
+
+1587704504 source:c:\users\dr.thang\documents\gamee\map\map.cpp
+	"map.h"
+
+1587706529 c:\users\dr.thang\documents\gamee\map\map.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+
+1587656130 source:g:\gamee\print\print.cpp
+	"print.h"
+
+1588023970 g:\gamee\print\print.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+
+1588193526 source:g:\gamee\test.cpp
+	"print.h"
+	"map.h"
+
+1587656128 g:\gamee\map\map.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+
+1591205269 source:g:\codeblock\gamee\print\print.cpp
+	"print.h"
+
+1591112983 g:\codeblock\gamee\print\print.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+
+1591205979 source:g:\codeblock\gamee\test.cpp
+	"print.h"
+	"mainobject.h"
+	"bullet.h"
+	"text.h"
+
+1587656128 g:\codeblock\gamee\map\map.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+
+1589527253 source:g:\codeblock\gamee\main_object\main_object.cpp
+	"main_object.h"
+
+1589536513 g:\codeblock\gamee\main_object\main_object.h
+	<print.h>
+
+1589689083 source:g:\codeblock\gamee\main\main_object.cpp
+	"main_object.h"
+
+1589690339 g:\codeblock\gamee\main\main_object.h
+	<print.h>
+	<bullet.h>
+
+1590575855 source:g:\codeblock\gamee\bullet\bullet.cpp
+	"bullet.h"
+
+1590575855 g:\codeblock\gamee\bullet\bullet.h
+	"print.h"
+
+1591205978 source:g:\codeblock\gamee\main\mainobject.cpp
+	"mainobject.h"
+
+1590816320 g:\codeblock\gamee\main\mainobject.h
+	"print.h"
+	"bullet.h"
+
+1590555425 g:\codeblock\gamee\text\text.h
+	"print.h"
+
+1590425148 source:g:\codeblock\gamee\text\text.cpp
+	"text.h"
+
